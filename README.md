@@ -229,19 +229,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-- **Create an Issue** - [GitHub Issues](https://github.com/yourusername/snapit-camera-app/issues)
-- **Email Support** - support@yourapp.com
-- **Documentation** - Check our [Wiki](https://github.com/yourusername/snapit-camera-app/wiki) for detailed guides
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/snapit-camera-app&type=Date)](https://star-history.com/#yourusername/snapit-camera-app&Date)
+- **Create an Issue** - [GitHub Issues](https://github.com/MoonLightCodes/SnapItCameraApp/issues)
+- **Email Support** - poornachander00015@gmail.com
 
 ---
 
 <div align="center">
 
-**Made with ❤️ and ☕ by [Your Name]**
+**Made with ❤️ and ☕ by POORNA **
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
