@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![SnapIt Banner](https://via.placeholder.com/800x200/007AFF/ffffff?text=SnapIt+Smart+Camera+App)
+![SnapIt Banner]([https://via.placeholder.com/800x200/007AFF/ffffff?text=SnapIt+Smart+Camera+App](https://th.bing.com/th?q=Snapchat+iOS+Logo&w=120&h=120&c=1&rs=1&qlt=90&cb=1&dpr=1.9&pid=InlineBlock&mkt=en-IN&cc=IN&setlang=en&adlt=moderate&t=1&mw=247))
 
 **A modern, feature-rich camera application built with React Native and Expo**
 
